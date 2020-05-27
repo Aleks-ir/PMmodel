@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PM Model</string>
+
+    <string name="fire">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="close">Закрыть</string>
+    <string name="info_density">Плотность материала: %d кг/м³</string>
+    <string name="allowed_size">0.05 - 1 м</string>
+    <string name="allowed_density">100 - 23000 кг/м³</string>
+    <string name="allowed_speed">50 - 500 м/c</string>
+    <string name="allowed_height">0 - 150 м</string>
+    <string name="allowed_angle">0 - 90°</string>
+    <string name="name_1">Чугун</string>
+    <string name="name_2">Свинец</string>
+    <string name="name_3">Камень</string>
+    <string name="about_flight">Инфо</string>
+    <string name="body_size">Размер тела</string>
+    <string name="body_density">Плотность тела</string>
+    <string name="start_speed">Начальная скорость</string>
+    <string name="height">Высота над землей</string>
+    <string name="shot_angle">Угол вылета</string>
+    <string name="stop">Стоп</string>
+    <string name="start">Пуск</string>
+    <string name="coordinates">Координаты</string>
+    <string name="time_fly">Время полета</string>
+    <string name="trajectory">Траектория</string>
+    <string name="tap_again">Нажмите Назад еще раз для выхода</string>
+
+    <string name="info_title">Текущие данные</string>
+    <string name="info_message">Диаметр снаряда: %sм\nПлотность материала: %sкг/м³\nНачальная скорость: %sм/c\nВысота башни: %sм\nУгол вылета: %s°</string>
+</resources>
